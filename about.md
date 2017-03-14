@@ -3,7 +3,7 @@
 We provide you with this course template to allow you to start easily.
 It is composed as follows:
 * Part1 : an example of markdown syntax with a quiz
-* Part2 : an interactive java exercise
+* Part2 : an interactive kotlin exercise
 * Part3 : an example of viewer
 
 
@@ -16,7 +16,7 @@ The structure of the project is:
 
 ├── **codingame.yml**: your course configuration file. Think to update it when you add new lessons
 
-├── **java-project**: your exercise folder
+├── **kotlin-project**: your exercise folder
 
 └── **markdowns**: the folder where you will put your lesson files
 
